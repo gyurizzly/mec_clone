@@ -1,9 +1,6 @@
 @import "./common.css";
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 0d606c2dd6155ad8f35cbc63aece52a263395a46
+
 
 .material-symbols-outlined {
   font-variation-settings:
@@ -12,10 +9,7 @@
   'GRAD' 0,
   'opsz' 48
 }
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 0d606c2dd6155ad8f35cbc63aece52a263395a46
+
 header > .adsBar{
     background-color: rgb(240,240,240);
     padding:5px;
@@ -73,7 +67,7 @@ header .i-search {
     transform: translateX(-30px);
     cursor: pointer;
 }
-<<<<<<< HEAD
+
 .setStore a{
     /* text-decoration: none; */
     color:black;
@@ -100,7 +94,5 @@ header .listContainer{
 .listContainer >.listBox{
     display:flex;
 }
-=======
 
->>>>>>> d39637699154d36cc02df1f10d4d669403125e46
->>>>>>> 0d606c2dd6155ad8f35cbc63aece52a263395a46
+
