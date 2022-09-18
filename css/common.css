@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+:root{
+    --primary-color:#E6502A;
+    --secondary-color1:#F2871F;
+    --secondary-color2:#F21A62;
+    --secondary-color3:#FC2D21;
+}
+h1,h2,h3{
+    margin-top:20px;
+    margin-bottom:15px;
+}
+p{
+    font-size:16px;
+    color:#8C8C8C;
+    margin-top:10px;
+    margin-bottom:10px;
+}
