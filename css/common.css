@@ -2,9 +2,10 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 :root{
-    --primary-color:#E6502A;
+    --primary-color:#2b6638;
     --secondary-color1:#F2871F;
     --secondary-color2:#F21A62;
     --secondary-color3:#FC2D21;
@@ -18,4 +19,11 @@ p{
     color:#8C8C8C;
     margin-top:10px;
     margin-bottom:10px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
 }
